@@ -8,8 +8,10 @@ The purpose of this analysis is to use different machine learning models in orde
 ## Results
 
 
-
 * Machine Learning Model 1:
+
+![LRM_original_data](https://user-images.githubusercontent.com/61864923/196864994-de032bda-1d02-4642-8b51-8aff9fcab382.JPG)
+
   * Balance accuracy score of 0.95, which is relatively high.
   * In predicting the '0' or healthy loan, the model was 100% accurate with a precision of 1.
   * In predicting the '1' or high-risk loan, this model with a precision of 0.85 shows that it was 85% accurate.
@@ -17,7 +19,12 @@ The purpose of this analysis is to use different machine learning models in orde
 
 
 
+
+
 * Machine Learning Model 2:
+
+![RandomOverSampler](https://user-images.githubusercontent.com/61864923/196865001-fc4e3e5c-c3ec-48e9-b95e-dd404399be9a.jpg)
+
   * Balance accuracy score of 0.99, which is higher than model 1.
   * Model 2 was again 100% accurate or has a precision of 1 in determining the '0' or healthy loans.
   * The precision of this model(2) is similar to model 1 in that the precision in predictiong a '1' or high risk loan with a precision of 0.84 or 84% accuracy.
