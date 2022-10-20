@@ -8,7 +8,7 @@ The purpose of this analysis is to use different machine learning models in orde
 ## Results
 
 
-* Machine Learning Model 1:
+ Machine Learning Model 1:
 
 ![LRM_original_data](https://user-images.githubusercontent.com/61864923/196864994-de032bda-1d02-4642-8b51-8aff9fcab382.JPG)
 
@@ -21,7 +21,7 @@ The purpose of this analysis is to use different machine learning models in orde
 
 
 
-* Machine Learning Model 2:
+ Machine Learning Model 2:
 
 ![RandomOverSampler](https://user-images.githubusercontent.com/61864923/196865001-fc4e3e5c-c3ec-48e9-b95e-dd404399be9a.jpg)
 
