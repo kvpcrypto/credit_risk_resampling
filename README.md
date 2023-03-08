@@ -1,4 +1,4 @@
-# UWFinTechModule12
+# UWFinTechModule12: Supervised Learning
 
 ## Overview of the Analysis
 
